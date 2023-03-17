@@ -1,0 +1,163 @@
+.cuerpo
+{
+    background-color: rgba(255, 255, 255, 0.345);
+}
+.titulo
+{
+    position: relative;
+    text-decoration: double;
+    color: rgb(255, 255, 255);
+    font-size: 60px;
+    top:-350px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.785);
+    padding: 10px;
+   
+}
+
+
+.imagen1
+{
+    position: relative;
+    display: inline;
+    left: 14%;
+    top:-100px;
+    background-image: url(FONDO.jpg);
+    background-attachment:fixed;
+}
+
+.CAJA
+{
+    position: relative;
+    text-align: center;
+    width: 400px;
+    left: 60%;
+    padding: 40px;
+    background-color: rgba(26, 167, 232, 0.384);
+    margin-top: -200px;
+    
+
+}
+
+.pregunta
+{
+    position: relative;
+    text-decoration: double;
+    display: inline;
+    bottom: 600px;
+    color: aliceblue;
+    font-size: 50px;
+    left: 20px;
+}
+
+.respuesta
+{
+    position: relative;
+    text-decoration: double;
+   bottom: 500px;
+   color: rgb(255, 255, 255);
+   font-size: 25px;
+   width: 800px;
+   left: 20px;
+}
+
+.medio
+{
+    position: relative;
+    margin-top: 40px;
+    width: 1340px;
+    background-image: url(PIE.jpg);
+
+}
+
+.texto
+{
+    position: relative;
+    margin-top: -300px;
+    padding: 20PX;
+    width: 400px;
+    border-radius: 50px;
+    background-color: rgba(26, 167, 232, 0.384);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.cultura
+{
+    position: relative;
+    padding: 10PX;
+    left: 20px;
+    background-color: rgba(231, 28, 92, 0.384);
+    font-size: 30px;
+    border-style: double;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 5px;
+    width: 900PX;
+}
+.niños
+{
+    position: relative;
+    background-image: url(medio.jpg);
+    text-decoration: double;
+    margin-top: -350px;
+}
+
+.fin{
+    position: relative;
+    text-align: center;
+    background-color: rgb(231, 28, 92, 0.384);
+    padding: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    border-style: double;
+}
+.historia{
+    position: relative;
+    left: 30%;
+    color: brown;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px;
+}
+.historia2
+{
+    position: relative;
+    left: 30%;
+    color: rgb(0, 0, 0);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+}
+.año
+{
+    position: relative;
+    left: 30%;
+    color: rgb(0, 0, 0);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+} 
+.demografia
+{
+    position: relative;
+    left: 30%;
+    color: brown;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px;
+}
+.demografia2
+{
+    position: relative;
+    left: 30%;
+    color: rgb(0, 0, 0);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+}
+.isla
+{
+    position: relative;
+    left: 30%;
+    color: rgb(0, 0, 0);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+}
+.fondo2{
+    background-color: rgba(153, 210, 236, 0.384);
+    
+    margin-bottom: 50px;
+}
